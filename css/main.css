@@ -181,3 +181,13 @@ a .button:hover{
 	letter-spacing: 0.1px;
 	font-size: 14px;
 }
+
+
+
+
+/*Mdeia Queries*/
+@media(max-width: 700px){
+	.search-box input{
+		width: 75%;
+	}
+}
